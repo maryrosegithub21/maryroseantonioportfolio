@@ -11,7 +11,7 @@
     style="background-color: #94C1FA; height: 4552px; width: 1504px;">
      <div style="float: left; width: 100%; text-align: Justify;">
         <asp:Image ID="Image2" runat="server" Height="308px" 
-            ImageUrl="~/Image/Background.jpg" style="margin-top: 0px" Width="1495px" 
+            ImageUrl="~/maryroseantonioportfolio/Background.jpg" style="margin-top: 0px" Width="1495px" 
              BorderColor="#3333FF" BorderStyle="Solid" />
     </div>
     <p>
